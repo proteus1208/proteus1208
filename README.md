@@ -13,7 +13,7 @@
 -->
 
 <div align="center">
-    <img height="106em" src="https://github-profile-trophy.vercel.app/?username=proteus1208&row=1&column=7&theme=radical&margin-w=15&margin-h=15">
+    <!-- <img height="106em" src="https://github-profile-trophy.vercel.app/?username=proteus1208&row=1&column=7&theme=radical&margin-w=15&margin-h=15"> -->
     <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proteus1208&theme=radical">
     <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proteus1208&theme=radical">
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proteus1208&theme=radical">
