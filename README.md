@@ -1,119 +1,103 @@
-<!--
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=proteus1208&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
+
+<div align=center>
+  
+[<img src="/assets/cover.png"/>](https://proteus1208.github.io/about)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=900&size=36&duration=3000&pause=1000&color=00A2E8&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Mark+Kinsley+Rimando;Tech+Stack+Hybrid+Intelligent;Next+Generation+Engineer;Senior+Full+Stack+Developer;Advanced+Blockchain+Innovator+%F0%9F%92%9A;AI+Enthusiast)](https://git.io/typing-svg)
+</div>
+
+- 🔭 I’m currently working as a Senior Full Stack Developer.
+- 🌱 I’m currently learning AI and Next-Gen Techs.
+- 👯 I’m looking to collaborate on Web Development and the Blockchain Industry.
+- 🤔 I’m looking for help with Client Consultant & Business Assistant.
+- 💬 Ask me about Blockchain and Website development
+- 📫 How to reach me: https://t.me/proteus1208 
+- ❤️ I am passionate about Software Engineering
+- 💻 I enjoy learning new things & sharing knowledge
+
+![snake gif](/assets/github-contribution-grid-snake-dark.svg)
+
+##   <img alt="Loading Gif" src="./assets/contact-us.gif" width="40" style="margin-bottom:-14px"/>   Connect with me! <br>
+[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://shenadrei4.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shen-andrei)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-1DA1F0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yy339622)
+<!-- [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:proteus1208@outlook.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tshingen01/)
+[![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tshingen821)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32788228/tshingen01) -->
+<br>
+
+
+## <img alt="Developer Gif" src="./assets/developer.gif" width="40" style="margin-bottom:-8px"/> Programming Languages:
+<p align="left">
+  <a href="https://javascript.info" target="_blank"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="typescript" /> </a>
+  <a href="https://www.learncs.org/" target="_blank"> <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&labelColor=black&logo=csharp&logoColor=007acc" alt="csharp" /> </a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc" alt="cplusplus" /> </a>
+ </p>
+
+<table align="center">
+   <tr align="left">
+    <th> <b>🚶 Frontend Development: </b></th> 
+    <th> <b>🔙 Backend Development: </b></th>
+   </tr>
+  <tr>
+    <td>
+     <p align="left"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> </a> <a href="" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> </a> <a href="" target="_blank"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/> </a> <a href="" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a> <img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular Badge"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> </a> <img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=fff&style=for-the-badge" alt="Ant Design Badge">
+     <a href="" target="_blank"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/> </a> <a href="" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Reactjs"/> </a> <a href="" target="_blank"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/> </a><a href="https://nextjs.com" target="_blank"> <img src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"/> </a>  
+    </p>
+   </td>
+      <td>
+          <p align="center"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" /> <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge" alt="GraphQL Badge"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge"> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge" alt="Laravel Badge"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" alt="PHP Badge"> <a href="https://Mongoosejs.com" target="_blank"> <img src="https://img.shields.io/badge/Mongoose-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="Mongoose" /> </a> <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge" alt="NestJS Badge"> <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".NET Badge"> <a href="https://Pugjs.com" target="_blank"> <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="PUG" /> </a><a href="https://socket.io" target="_blank"> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=0101014" alt="Socket.io" /> </a>  </p>
+      </td>
+   </tr>
+   <tr align="left">
+        <th><b>👨‍💻Development Tools:</b></th>
+        <th> <b>📱Databases & Cloud Hosting:</b></th>
+   </tr>
+  <tr>
+    <td>
+            <p align=""> 
+            <a href="https://vitejs.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> </a> 
+            <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> </a> <a href="https://webpack.com" target="_blank"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /> </a> <a href="https://babeljs.com" target="_blank"> <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babeljs" /> </a> <a href="https://eslint.com" target="_blank"> <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="" /> </a> <a href="https://npmjs.com" target="_blank"> <img src="https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /> </a> <a href="https://yarn.com" target="_blank"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" /> </a> 
+            <a href="https://prettier.com" target="_blank"> <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Axios-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="" /> </a>
+            <a href="https://" target="_blank"> <img src=" " alt="" /> </a> 
+         </p>
+    </td>
+    <td>
+          <p align="center">
+            <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL Badge"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge"> <a href="https://firebase.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /> </a><a href="https://render.com/" target="_blank"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" /> </a><a href="https://firebase.com/" target="_blank"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> </a><a href="https://firebase.com/" target="_blank"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Vercel" /> </a> <img src="https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff&style=for-the-badge" alt="AWS Amplify Badge"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" alt="Google Cloud Badge"> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge" alt="Microsoft Azure Badge">
+        </p>
+    </td>
+ </tr>
+ </table>
+
+## <img src="./assets/blockchain.gif" width="45" style="margin-bottom:-14px"> Blockchain :
+![Blockchain.com Badge](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge) ![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge) ![Analogue Badge](https://img.shields.io/badge/Analogue-1A1A1A?logo=analogue&logoColor=fff&style=for-the-badge) 
+![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge) ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge) ![Web3.js Badge](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge) ![Ethers Badge](https://img.shields.io/badge/Ethers-2535A0?logo=ethers&logoColor=fff&style=for-the-badge) ![Coinbase Badge](https://img.shields.io/badge/Coinbase-0052FF?logo=coinbase&logoColor=fff&style=for-the-badge) ![CoinMarketCap Badge](https://img.shields.io/badge/CoinMarketCap-17181B?logo=coinmarketcap&logoColor=fff&style=for-the-badge)
+
+## <img src="./assets/code.gif" width="30" style="margin-bottom:-8px">  Software and Tools:
+<p align="left"> <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a><a href="https://vscode.coom" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </a><a href="https://linux.org" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " alt="Linux" /> </a> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="Kubernetes Badge"> <a href="https://docker.com" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " alt="Docker" /> </a><a href="https://figma.com" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=white" alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" alt="Jira Badge"> <img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff&style=for-the-badge" alt="Asana Badge">              
 </p>
--->
 
-<!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile. This is Magni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
--->
+[<img src="/assets/works.png"/>](https://proteus1208.github.io/projects)
 
-<!-- ### Magni's GitHub Streak
-    
-![Magni's GitHub Streak](https://streak-stats.demolab.com/?user=proteus1208&theme=monokai-metallian&hide_border=true)
--->
-
+## <img src="./assets/awards.gif" width="45" style="margin-bottom:-8px"> Certifications
+<img src="./assets/line.gif" width="100%" style="margin-bottom:-8px">
 <div align="center">
-    <!-- <img height="106em" src="https://github-profile-trophy.vercel.app/?username=proteus1208&row=1&column=7&theme=radical&margin-w=15&margin-h=15"> -->
-    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proteus1208&theme=radical">
-    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proteus1208&theme=radical">
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proteus1208&theme=radical">
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proteus1208&theme=radical">
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=proteus1208&theme=radical&utcOffset=5.5">
-    <img height="167em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=proteus1208&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true">
-    <img height="167em" src="https://github-readme-streak-stats.herokuapp.com/?user=proteus1208&theme=radical">
-    <img height="290em" src="https://github-readme-activity-graph.vercel.app/graph?username=proteus1208&theme=radical">
+<a href="https://www.hackerrank.com/certificates/aa8ed200da02" target="_blank" ><img src="/assets/certification-software.png" width="320" height="240" /></a>
+<a href="https://www.hackerrank.com/certificates/9a5c52f7b22c" target="_blank" ><img src="/assets/certification-frontend.png" width="320" height="240"/></a>
+<a href="https://www.hackerrank.com/certificates/3aa14f420bb0" target="_blank" ><img src="/assets/certification-r.png" width="320" height="240"/></a>
+<a href="https://www.hackerrank.com/certificates/81137fffe087" target="_blank" ><img src="/assets/certification-python.png" width="320" height="240"/></a>
 </div>
+<img src="./assets/line.gif" width="100%" style="margin-bottom:-8px">
+
+## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Mark Kinsley Rimando's Github Stats
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tshingen01&theme=meta-dark&hide_border=true&date_format=%5BY.%5Dn.j&card_width=512&card_height=192)](https://git.io/streak-stats)
+
+ </div>
 
 
-<!--
-[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
-
-<p align="center">
-  <a href="https://count.getloli.com/" target="_blank">
-    <img src="https://count.getloli.com/get/@marichu-kt_repo?theme=3d-num" alt="Visitor counter" />
-  </a>
-</p>
--->
-
-<!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=proteus1208&theme=radical&hide_border=false&include_all_commits=true&count_private=true"> -->
-
-<!--
-### Magni's Most Used Langauges
-![Magni's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=proteus1208&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
-    
- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=proteus1208&theme=react&line_height=40&hide=css)
-
-### Magni's Github Status
-![Magni's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=proteus1208&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
--->
-<!-- ### Magni's Contribution Graph
-![Magni's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=proteus1208&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true) -->
-<!--
-![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
--->
-<div>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=proteus1208.proteus1208" />
-    <img align="right" src="https://img.shields.io/github/followers/proteus1208" />
-    <!-- <img align="right" src="https://img.shields.io/github/followers/proteus1208?label=Follow&style=social" /> -->
-</div>
-
-<h1 align="center"></h1>
- <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=proteus1208&theme=github&count_private=true" /> -->
-<!-- <h1 align="center"></h1> --><!--
-</br>
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
-<table>
-    <tr>
-        <td><img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" width="100" alt="Angular.js"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="100" alt="Python"></td>
-        <td><img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" width="100" alt="Vue.js"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" title="MySQL" width="100" alt="MySQL"></td>
-        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
-        <td><img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="node.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap"></td>
-        <td><img src="https://img.icons8.com/color/2x/sass.png" title="Sass" width="100" alt="Sass"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript"></td>
-    </tr>
-    <tr>
-        <td><img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript"></td>
-        <td><img src="https://img.icons8.com/color/2x/tensorflow.png" title="TensorFlow" width="100" alt="TensorFlow"></td>
-        <td><img src="https://img.icons8.com/color/2x/html-5.png" title="HTML5" width="100" alt="HTML5"></td>
-        <td><img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" title="Laravel" width="100" alt="Laravel"></td>
-        <td><img src="https://img.icons8.com/color/2x/django.png" title="Django" width="100" alt="Django"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" width="100" alt="Graphql"></td>
-        <td><img src="https://img.icons8.com/color/2x/php.png" title="PHP" width="100" alt="PHP"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" width="100" alt="MongoDB"></td>
-        <td><img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" width="100" alt="PostgreSQL"></td>
-    </tr>
-    <tr>
-        <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++" width="100" alt="C++"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
-        <td><img src="https://www.theconsolelogs.com/react/redux.svg" title="Redux" width="100" alt="Redux"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" width="100" alt="Linux"></td>
-        <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="100" alt="Docker"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="100" alt="Dart"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="100" alt="Flutter"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab"></td>
-        <td><img src="https://img.icons8.com/color/452/amazon-web-services.png" title="Amazon Web Service" width="100" alt="Amazon Web Service"></td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/proteus1208/proteus1208/blob/main/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png?raw=true" title="Three.js" width="100" alt="Three.js"></td>
-        <td><img src="https://github.com/proteus1208/proteus1208/blob/main/rubik3.jpg?raw=true" title="Three.js" width="100" alt="Three.js"></td>
-    </tr>
-</table>
--->
-<!--<a href="https://proteus1208.github.io/examples/rubik3/">
-    <img src="https://github.com/proteus1208/proteus1208/blob/main/screenshot.png?raw=true" title="Three.js" alt="Three.js">
-</a>-->
-</div>
-
-## Contact Me
-
-You can reach me through the following email:
-
-- **Email:** [proteus1208@outlook.com](mailto:proteus1208@outlook.com)
-<!-- - **Discord:** magni3487 -->
 
