@@ -59,7 +59,7 @@ C++, Qt, FFmpeg, Multithreading, Networking, Video Processing, Computer Vision
 ### 📫 Connect With Me
 
 - **GitHub:** [@Proteus1208](https://github.com/Proteus1208)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Connect with me]([Cody Lee Berry](https://www.linkedin.com/in/duvanmartinez2511))
 - **Email:** codyleeberry1999@gmail.com
 
 ---
