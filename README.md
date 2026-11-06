@@ -52,20 +52,21 @@ C++, Qt, FFmpeg, Multithreading, Networking, Video Processing, Computer Vision
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Proteus1208&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Proteus1208&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proteus1208&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proteus1208&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=Proteus1208&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Proteus1208&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Proteus1208&theme=tokyo-night" width="100%" alt="Contribution Graph" />
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Proteus1208&theme=tokyo-night" alt="Contribution Graph" width="100%" />
 
 ### 📫 Connect With Me
 
