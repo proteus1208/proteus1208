@@ -50,18 +50,21 @@ C++, Qt, FFmpeg, Multithreading, Networking, Video Processing, Computer Vision
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Proteus1208&show_icons=true&theme=tokyonight&include_all_commits=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Proteus1208&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Proteus1208&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Proteus1208&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proteus1208&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-### 📈 Contribution Activity
+<img src="https://streak-stats.demolab.com?user=Proteus1208&theme=tokyonight" alt="GitHub Streak" />
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Proteus1208&theme=tokyo-night)
+</div>
 
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Proteus1208&theme=tokyo-night" width="100%" alt="Contribution Graph" />
 ---
 
 ### 📫 Connect With Me
