@@ -2,13 +2,6 @@
 
 ### Full-Stack Software Engineer | Angular & Python | AI-Powered Products
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge)](https://proteus1208-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cody-lee-berry-603179449/)
-[![GitHub](https://img.shields.io/badge/GitHub-proteus1208-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/proteus1208)
-[![Email](https://img.shields.io/badge/Email-codyleeberry1999%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codyleeberry1999@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Indiana%2C%20United%20States-2ea44f?style=for-the-badge)](https://proteus1208-portfolio.vercel.app)
-[![Phone](https://img.shields.io/badge/Phone-%2B1%20(765)%20694--4921-0A66C2?style=for-the-badge)](tel:+17656944921)
-
 ---
 
 ## 🧠 About Me
