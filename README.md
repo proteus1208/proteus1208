@@ -23,18 +23,19 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=proteus1208&show_icons=true&include_all_commits=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proteus1208&layout=compact&langs_count=8" />
+  <img src="./assets/github-stats.svg" alt="GitHub Statistics" />
 </p>
 
-## 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=proteus1208" />
+  <img src="./assets/top-languages.svg" alt="Most Used Languages" />
 </p>
 
-## 📈 Contribution Activity
+---
+
+## 🔥 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=proteus1208&area=true" />
+  <a href="https://github.com/proteus1208">
+    View my GitHub contribution graph
+  </a>
 </p>
