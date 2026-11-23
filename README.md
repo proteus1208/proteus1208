@@ -1,41 +1,45 @@
-# Hi 👋, I'm Cody Lee Berry
+# Cody Lee Berry
+### Full-Stack Engineer | AI Engineering
 
-### Full-Stack Software Engineer | Angular & Python | AI-Powered Products
+## 👋 Summary
 
----
+I'm a software engineer focused on building scalable web applications, enterprise platforms, and AI-powered products. I enjoy working across frontend, backend, cloud infrastructure, and applied AI to turn complex technical challenges into reliable, practical solutions.
 
-## 🛠️ Tech Stack
+My interests include software architecture, distributed systems, intelligent automation, and developing products that are scalable, maintainable, and meaningful to their users.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,python,fastapi,nodejs,express,cs,dotnet" />
-</p>
+## 🎯 Vision
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,vite,postgres,mysql,mongodb,redis" />
-</p>
+I believe great software combines thoughtful engineering, intelligent technology, and meaningful user experiences.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git,github,linux,postman,figma" />
-</p>
+My goal is to build reliable, scalable solutions that simplify complex problems, connect systems, and make technology more useful in everyday life.
 
----
+## 🏢 Industries & Domains
 
-## 📊 GitHub Statistics
+- **FinTech & Financial Services**
+- **Education & EdTech**
+- **E-commerce & Retail**
+- **Government & Public Sector**
+- **Healthcare & HealthTech**
+- **Smart Home & IoT**
+- **Nonprofit & Social Impact**
 
-<p align="center">
-  <img src="./assets/github-stats.svg" alt="GitHub Statistics" />
-</p>
+**Technical Domains:** Enterprise Software · SaaS Platforms · AI Applications · Cloud Architecture · Distributed Systems · Mobile Applications · Real-Time Communication
 
-<p align="center">
-  <img src="./assets/top-languages.svg" alt="Most Used Languages" />
-</p>
+## 🛠️ Technical Skills
 
----
+| Category | Technologies |
+|---|---|
+| **Languages** | C#, TypeScript, JavaScript, Python, Java, C++, Go, SQL |
+| **Backend** | .NET, ASP.NET Core, Node.js, Express.js, FastAPI, REST APIs, GraphQL |
+| **Frontend** | React, Next.js, Angular, Vue.js, HTML5, CSS3, Tailwind CSS |
+| **Mobile** | React Native, Swift, Kotlin, iOS, Android |
+| **AI & Machine Learning** | OpenAI API, LLMs, RAG, LangChain, PyTorch, YOLO, OpenCV, OCR |
+| **Databases** | PostgreSQL, SQL Server, MongoDB, MySQL, Redis |
+| **Cloud & DevOps** | Microsoft Azure, AWS, Docker, Kubernetes, CI/CD, GitHub Actions |
+| **Architecture** | Microservices, Distributed Systems, Multi-Tenant Architecture, WebSocket, WebRTC, Kafka |
+| **Testing & Tools** | Jest, PyTest, Playwright, Cypress, Git, GitHub, Sentry |
 
-## 🔥 Contributions
+## 📫 Contact
 
-<p align="center">
-  <a href="https://github.com/proteus1208">
-    View my GitHub contribution graph
-  </a>
-</p>
+- **Email:** [codyleeberry1999@gmail.com](mailto:codyleeberry1999@gmail.com)
+- **Phone:** [+1 765-694-4921](tel:+17656944921)
